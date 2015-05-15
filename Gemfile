@@ -9,7 +9,7 @@ group :development, :test do
   gem 'puppet-lint-absolute_classname-check'
   gem 'puppet-lint-absolute_template_path'
   gem 'puppet-lint-trailing_newline-check'
-
+  gem 'minitest', '~> 4.7', :require => 'minitest/unit'
   # Puppet 4.x related lint checks
   gem 'puppet-lint-unquoted_string-check'
   gem 'puppet-lint-leading_zero-check'
