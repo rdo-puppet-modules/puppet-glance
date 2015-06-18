@@ -1,0 +1,7 @@
+Code-Review+2: Gabriele Cerami <gcerami@redhat.com>
+Verified+1: Gabriele Cerami <gcerami@redhat.com>
+Submitted-by: Gabriele Cerami <gcerami@redhat.com>
+Submitted-at: Thu, 18 Jun 2015 11:14:11 +0200
+Reviewed-on: https://review.gerrithub.io/236795
+Project: rdo-puppet-modules/puppet-glance
+Branch: refs/heads/tag-patches-master-c0bbc9078d8eb56d427dcf3cab13841e3fc1622b
