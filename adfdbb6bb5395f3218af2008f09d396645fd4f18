@@ -1,0 +1,7 @@
+Code-Review+2: Gabriele Cerami <gcerami@redhat.com>
+Verified+1: Gabriele Cerami <gcerami@redhat.com>
+Submitted-by: Gabriele Cerami <gcerami@redhat.com>
+Submitted-at: Mon, 22 Jun 2015 15:01:10 +0200
+Reviewed-on: https://review.gerrithub.io/236729
+Project: rdo-puppet-modules/puppet-glance
+Branch: refs/heads/tag-upstream-master-104829144f24eaaa38374f2a0a664b3b739a234c
