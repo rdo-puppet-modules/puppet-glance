@@ -1,4 +1,5 @@
-# UUID             	Group Name
+# UUID                                  	Group Name
 #
-user:gabrielecerami	user/Gabriele Cerami (gabrielecerami)
-user:rdo-ci-service	user/rdo-ci-service
+45223d4071782507d4c994dc9e61b619c7bb29d9	rdo-puppet-modules
+user:gabrielecerami                     	user/Gabriele Cerami (gabrielecerami)
+user:rdo-ci-service                     	user/rdo-ci-service
