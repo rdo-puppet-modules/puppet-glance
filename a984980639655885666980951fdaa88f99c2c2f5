@@ -1,0 +1,7 @@
+Code-Review+2: Gabriele Cerami <gcerami@redhat.com>
+Verified+1: Gabriele Cerami <gcerami@redhat.com>
+Submitted-by: Gabriele Cerami <gcerami@redhat.com>
+Submitted-at: Tue, 07 Jul 2015 00:18:32 +0200
+Reviewed-on: https://review.gerrithub.io/238771
+Project: rdo-puppet-modules/puppet-glance
+Branch: refs/heads/recomb-original-master-c17afb139f608a00aeea920f240c9eadb41a6ee1
