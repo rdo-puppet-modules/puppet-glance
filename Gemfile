@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-
+# useless if not dangerous change
 group :development, :test do
   gem 'puppetlabs_spec_helper', :require => false
   gem 'rspec-puppet', '~> 2.1.0', :require => false
@@ -17,6 +17,7 @@ group :development, :test do
   gem 'puppet-lint-numericvariable'
 
   gem 'beaker-rspec', :require => false
+  gem 'beaker-puppet_install_helper', :require => false
   gem 'json'
   gem 'webmock'
 end
